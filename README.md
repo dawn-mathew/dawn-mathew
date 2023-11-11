@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/dawn-mathew/dawn-mathew/assets/150279674/e1bb2015-2ebd-4a83-aea1-8a8ba43a6fd2)
+![MasterHead](https://github.com/dawn-mathew/dawn-mathew/assets/150279674/85e09183-bcbb-4d22-9799-a09cc5b52dd2)
 <h1 align="center">Greetings! 👋, I'm Dawn Mathew</h1>
 <h3 align="center">A recent  BE Mechatronics Graduate and a passionate Robotics/Autonomus Vehicle Engineer.</h3>
 <p align ="justify">My interests lie in the captivating domains of robotics, complex mechatronic systems, and autonomous vehicles. I've had the privilege of contributing to the field with a published paper in an international journal, focusing on an automated EV charging robot. I'm excited to be a part of the GitHub community, eager to collaborate, share, and learn while exploring the endless possibilities of mechatronics and robotics. Let's innovate together!</p>
